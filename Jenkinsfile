@@ -27,7 +27,7 @@ pipeline {
         }
     }
 
-    ppipeline {
+    pipeline {
     agent any
 
     stages {
@@ -73,3 +73,4 @@ pipeline {
 }
 
 }
+
